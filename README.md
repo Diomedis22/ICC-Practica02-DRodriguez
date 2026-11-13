@@ -21,14 +21,18 @@ la fecha en muchas formas. Se utiliza la sobrecarga de metodos, calcula la difer
 fechas, asi como la creacion de metodos auxiliares. Despues se creo la clase TiempoDeInversion, la cual
 utiliza metodos y objetos de la clase Fecha.
 
-COMPILACION EJECUCION
+COMPILACION Y EJECUCION
 
 Desde la carpeta : DRodriguez/Practica02/src/icc
+
 ejecutamos el comando para compilar el programa: javac Fecha.java
+
 seguido del comando para ejecutar el programa: java Fecha.java
 
 Y lo mismo para la clase TiempoDeInversion
+
 Compilar: javac TiempoDeInversion.java
+
 Ejecutar: java TiempoDeInversion.java
 
 EJEMPLOS DE EJECUCION
