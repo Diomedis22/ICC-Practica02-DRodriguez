@@ -22,6 +22,7 @@ fechas, asi como la creacion de metodos auxiliares. Despues se creo la clase Tie
 utiliza metodos y objetos de la clase Fecha.
 
 COMPILACION EJECUCION
+
 Desde la carpeta : DRodriguez/Practica02/src/icc
 ejecutamos el comando para compilar el programa: javac Fecha.java
 seguido del comando para ejecutar el programa: java Fecha.java
@@ -31,29 +32,50 @@ Compilar: javac TiempoDeInversion.java
 Ejecutar: java TiempoDeInversion.java
 
 EJEMPLOS DE EJECUCION
+
 Como la clase fecha no tiene metodo pincipal solo ejecutaremos la clase TiemposDeInversion, la cual
 utiliza metodos de la clase Fecha.
 
 Hola bienvenido al programa que calcula el tiempo de inversion
+
 Cual es tu nombre?
+
 El usuario responde ejemplo - Diomedis
+
 Hola Diomedis cual es el monto a invertir?
+
 ejemplo - 200
+
 Cual es el dia de inicio de tu inversion?
+
 ejemplo - 4
+
 Cual es el mes de inicio de tu inversion?
+
 ejemplo - 7
+
 Cual es el anio de inicio de tu inverson?
+
 ejemplo - 2026
+
 Cual es el dia del fin de tu inversion?
+
 ejemplo - 21
+
 Cual es el mes del fin de tu inversion?
+
 ejemplo - 12
+
 Cual es el anio del fin de tu inversion?
+
 ejemplo - 2027
+
 Los dias de su inversion seran: 535
+
 Su rendimiento sera: 35.178082191780824
+
 ¿Desea hacer otra simulacion?
+
 ejemplo - no
 
 Termina el programa.
