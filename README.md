@@ -4,14 +4,14 @@ Practica 2
 
 Rodriguez Espinosa Diomedis Estefany
 
-OBJETIVO
+1.OBJETIVO
 
 El objetivo de esta practica es que el alumno ejercite la teoria acerca del uso y aplicacion
 de las instrucciones condicionales dentro de un programa, ası como de la creacion y uso de
 objetos de clases existentes.
 
 
-DESCRIPCION GENERAL
+2.DESCRIPCION GENERAL
 
 En una institucion bancaria se requiere hacer cierto manejo de fechas para determinar, por
 ejemplo, la fecha final de una inversion de dinero. Por ello el proposito de este problema
@@ -23,7 +23,7 @@ fechas, asi como la creacion de metodos auxiliares. Despues se creo la clase Tie
 utiliza metodos y objetos de la clase Fecha.
 
 
-COMPILACION Y EJECUCION
+3.COMPILACION Y EJECUCION
 
 Desde la carpeta : DRodriguez/Practica02/src/icc
 
@@ -38,7 +38,7 @@ Compilar: javac TiempoDeInversion.java
 Ejecutar: java TiempoDeInversion.java
 
 
-EJEMPLOS DE EJECUCION
+4.EJEMPLOS DE EJECUCION
 
 Como la clase fecha no tiene metodo pincipal solo ejecutaremos la clase TiemposDeInversion, la cual
 utiliza metodos de la clase Fecha.
