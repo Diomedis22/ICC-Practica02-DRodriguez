@@ -10,6 +10,7 @@ El objetivo de esta practica es que el alumno ejercite la teoria acerca del uso 
 de las instrucciones condicionales dentro de un programa, ası como de la creacion y uso de
 objetos de clases existentes.
 
+
 DESCRIPCION GENERAL
 
 En una institucion bancaria se requiere hacer cierto manejo de fechas para determinar, por
@@ -20,6 +21,7 @@ La practica consiste en crear la clase Fecha la cual contiene diferentes metodos
 la fecha en muchas formas. Se utiliza la sobrecarga de metodos, calcula la diferencia en dias entre dos
 fechas, asi como la creacion de metodos auxiliares. Despues se creo la clase TiempoDeInversion, la cual
 utiliza metodos y objetos de la clase Fecha.
+
 
 COMPILACION Y EJECUCION
 
@@ -34,6 +36,7 @@ Y lo mismo para la clase TiempoDeInversion
 Compilar: javac TiempoDeInversion.java
 
 Ejecutar: java TiempoDeInversion.java
+
 
 EJEMPLOS DE EJECUCION
 
